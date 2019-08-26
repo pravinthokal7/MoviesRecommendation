@@ -1,0 +1,131 @@
+// Importing the dataset
+>>> import pandas as pd
+>>> df=pd.read_csv("f://movie/movie/Netflix/final.csv")
+>>> import matplotlib.pyplot as plt
+
+
+
+
+
+
+// Bar Graph
+
+// finding the ratings of movies based on there genre
+
+df.head(100).groupby('genres')['rating'].mean().plot.bar()
+
+
+
+
+
+
+// Pie Chart
+
+// finding out which kind of movies do people want to watch
+
+df.head(100).groupby('genres')['popularity'].count().plot.pie()
+
+
+
+
+
+
+
+// Histogram
+
+// Here we are plotting a histogram based on frequency of ratings
+// i.e how many votes are 1 star and how many are 5
+
+df['rating'].head(100).plot.hist()
+plt.xticks([1,2,3,4,5])
+plt.show()
+
+
+
+
+// Min and Max Functions
+
+// minimum number of people who have voted a movie of specific genre 
+df.head(100).groupby('genres')['frequency'].min().plot.bar()
+
+// most popular movies based on their genre
+df.head(100).groupby('genres')['popularity'].max().plot.bar()
+
+
+
+
+
+
+
+
+// Scatter Plot
+
+// Here we have plot a scatter plot based on ratings and popularity
+
+x=df['rating']
+y=df['popularity']
+
+
+x=x.values.reshape(len(x),1)
+y=y.values.reshape(len(y),1)
+
+
+x_train=x[0:50]
+y_train=y[0:50]
+
+x_test=x[51:100]
+y_test=y[51:100]
+
+plt.scatter(x_test,y_test,color='black')
+plt.xlabel('Ratings');
+plt.ylabel('Popularity');
+
+
+
+
+
+
+// Linear Regression
+
+// According to previous scatter plot we can predict a flight delay
+// based on atmospheric pressure
+
+>>>from sklearn import linear_model
+>>>from sklearn.metrics import r2_score
+
+df = pd.read_csv('f://movie/movie/Netflix/final.csv',encoding='latin1')
+
+print (df)
+
+
+x=df['rating']
+y=df['popularity']
+
+
+x=x.values.reshape(len(x),1)
+y=y.values.reshape(len(y),1)
+
+
+x_train=x[0:100]
+y_train=y[0:100]
+
+x_test=x[101:200]
+y_test=y[101:200]
+
+regr = linear_model.LinearRegression()
+
+regr.fit(x_train,y_train)
+
+yp = regr.predict(x_test)
+
+
+plt.scatter(x_test,y_test,color='black')
+plt.xlabel('Ratings');
+plt.ylabel('Popularity');
+
+
+plt.plot(x_test,yp,color='blue',linewidth=2)
+
+plt.show()
+
+print('Variance score: %.2f' % r2_score(y_test, yp))

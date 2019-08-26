@@ -1,0 +1,101 @@
+,movieId,title,genres,frequency,rating,popularity
+277,318,"Shawshank Redemption, The (1994)",Crime|Drama,317.0,4.4290220819999995,1404.0
+314,356,Forrest Gump (1994),Comedy|Drama|Romance|War,329.0,4.1641337389999995,1370.0
+257,296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,307.0,4.1970684039999995,1288.5
+1939,2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,278.0,4.192446043,1165.5
+510,593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,279.0,4.161290323,1161.0
+224,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,251.0,4.231075697,1062.0
+97,110,Braveheart (1995),Action|Drama|War,237.0,4.03164557,955.5
+2226,2959,Fight Club (1999),Action|Crime|Drama|Thriller,218.0,4.27293578,931.5
+461,527,Schindler's List (1993),Drama|War,220.0,4.225,929.5
+418,480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,238.0,3.75,892.5
+898,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,211.0,4.21563981,889.5
+507,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,224.0,3.970982143,889.5
+46,50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,204.0,4.237745098,864.5
+0,1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,215.0,3.920930233,843.0
+900,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,200.0,4.2075,841.5
+2145,2858,American Beauty (1999),Drama|Romance,204.0,4.056372549,827.5
+659,858,"Godfather, The (1972)",Crime|Drama,192.0,4.2890625,823.5
+3638,4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,198.0,4.106060606000001,813.0
+911,1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,196.0,4.137755102,811.0
+43,47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,203.0,3.9753694580000003,807.0
+1503,2028,Saving Private Ryan (1998),Action|Drama|War,188.0,4.146276596,779.5
+123,150,Apollo 13 (1995),Adventure|Drama|IMAX,201.0,3.845771144,773.0
+4800,7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,185.0,4.1189189189999995,762.0
+398,457,"Fugitive, The (1993)",Thriller,190.0,3.992105263,758.5
+4137,5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,188.0,4.021276596,756.0
+520,608,Fargo (1996),Comedy|Crime|Drama|Thriller,181.0,4.116022098999999,745.0
+31,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller,177.0,3.983050847,705.0
+2078,2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,179.0,3.893854749,697.0
+615,780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,202.0,3.4455445539999996,696.0
+506,588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical,183.0,3.792349727,694.0
+969,1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,171.0,4.038011696,690.5
+322,364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,172.0,3.941860465,678.0
+2674,3578,Gladiator (2000),Action|Adventure|Drama,170.0,3.9382352939999996,669.5
+3194,4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,170.0,3.867647059,657.5
+3141,4226,Memento (2000),Mystery|Thriller,159.0,4.122641509,655.5
+509,592,Batman (1989),Action|Crime|Thriller,189.0,3.428571429,648.0
+6710,58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,149.0,4.238255034,631.5
+508,590,Dances with Wolves (1990),Adventure|Drama|Western,164.0,3.835365854,629.0
+337,380,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,178.0,3.4971910110000004,622.5
+334,377,Speed (1994),Action|Romance|Thriller,171.0,3.5292397660000003,603.5
+899,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,142.0,4.232394366,601.0
+7372,79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,143.0,4.066433566000001,581.5
+915,1214,Alien (1979),Horror|Sci-Fi,146.0,3.969178082,579.5
+1183,1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,165.0,3.487878788,575.5
+1284,1704,Good Will Hunting (1997),Drama|Romance,141.0,4.078014184,575.0
+546,648,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,162.0,3.5370370369999997,573.0
+990,1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,140.0,4.046428571,566.5
+863,1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,136.0,4.1617647060000005,566.0
+964,1265,Groundhog Day (1993),Comedy|Fantasy|Romance,143.0,3.9440559439999996,564.0
+4427,6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,149.0,3.77852349,563.0
+793,1036,Die Hard (1988),Action|Crime|Thriller,145.0,3.8620689660000003,560.0
+896,1193,One Flew Over the Cuckoo's Nest (1975),Drama,133.0,4.203007519,559.0
+4360,6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,141.0,3.960992908,558.5
+512,595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,146.0,3.770547945,550.5
+828,1089,Reservoir Dogs (1992),Crime|Mystery|Thriller,131.0,4.202290076000001,550.5
+922,1221,"Godfather: Part II, The (1974)",Crime|Drama,129.0,4.259689922,549.5
+4909,7361,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,131.0,4.160305344,545.0
+1734,2329,American History X (1998),Crime|Drama,129.0,4.217054264,544.0
+914,1213,Goodfellas (1990),Crime|Drama,126.0,4.25,535.5
+254,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,133.0,4.0187969919999995,534.5
+4615,6874,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,131.0,3.9618320610000004,519.0
+138,165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,144.0,3.5555555560000003,512.0
+3568,4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,132.0,3.871212121,511.0
+939,1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,131.0,3.896946565,510.5
+474,541,Blade Runner (1982),Action|Sci-Fi|Thriller,124.0,4.100806452,508.5
+3622,4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,120.0,4.183333333,502.0
+325,367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,157.0,3.1847133760000004,500.0
+902,1200,Aliens (1986),Action|Adventure|Horror|Sci-Fi,126.0,3.964285714,499.5
+2836,3793,X-Men (2000),Action|Adventure|Sci-Fi,133.0,3.69924812,492.0
+3640,4995,"Beautiful Mind, A (2001)",Drama|Romance,123.0,4.0,492.0
+302,344,Ace Ventura: Pet Detective (1994),Comedy,161.0,3.040372671,489.5
+436,500,Mrs. Doubtfire (1993),Comedy|Drama,144.0,3.388888889,488.0
+907,1206,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,120.0,3.995833333,479.5
+5374,8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,125.0,3.8360000000000003,479.5
+1291,1721,Titanic (1997),Drama|Romance,140.0,3.4142857139999996,478.0
+1267,1682,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi,125.0,3.812,476.5
+275,316,Stargate (1994),Action|Adventure|Sci-Fi,140.0,3.375,472.5
+514,597,Pretty Woman (1990),Comedy|Romance,135.0,3.485185185,470.5
+32,34,Babe (1995),Children|Drama,128.0,3.65234375,467.5
+9,10,GoldenEye (1995),Action|Adventure|Thriller,132.0,3.496212121,461.5
+815,1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical,119.0,3.87394958,461.0
+2372,3147,"Green Mile, The (1999)",Crime|Drama,111.0,4.148648649,460.5
+836,1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,122.0,3.766393443,459.5
+3614,4963,Ocean's Eleven (2001),Crime|Thriller,119.0,3.844537815,457.5
+6315,48516,"Departed, The (2006)",Crime|Drama|Thriller,107.0,4.2523364489999995,455.0
+2038,2716,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,120.0,3.775,453.0
+909,1208,Apocalypse Now (1979),Action|Drama|War,107.0,4.2196261680000005,451.5
+4159,5989,Catch Me If You Can (2002),Crime|Drama,115.0,3.92173913,451.0
+5917,33794,Batman Begins (2005),Action|Crime|IMAX,116.0,3.8620689660000003,448.0
+957,1258,"Shining, The (1980)",Horror,109.0,4.0825688069999995,445.0
+592,733,"Rock, The (1996)",Action|Adventure|Thriller,121.0,3.640495868,440.5
+3873,5445,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,120.0,3.6375,436.5
+1979,2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi,140.0,3.107142857,435.0
+1158,1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,116.0,3.745689655,434.5
+3562,4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,109.0,3.9816513760000003,434.0
+3819,5349,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,122.0,3.540983607,432.0
+3854,5418,"Bourne Identity, The (2002)",Action|Mystery|Thriller,112.0,3.816964286,427.5
+98,111,Taxi Driver (1976),Crime|Drama|Thriller,104.0,4.105769231,427.0
+1445,1968,"Breakfast Club, The (1985)",Comedy|Drama,113.0,3.778761062,427.0
+4935,7438,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,110.0,3.868181818,425.5
